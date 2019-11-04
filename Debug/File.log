@@ -1,0 +1,111 @@
+﻿  main.c
+C:\Users\orlan\source\repos\File\main.c(46,7): warning C4013:  'gets' indefinido; assumindo extern retornando int
+C:\Users\orlan\source\repos\File\main.c(134,14): warning C4013:  'consulta' indefinido; assumindo extern retornando int
+C:\Users\orlan\source\repos\File\main.c(210,24): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(210,24): warning C4024:  'deposito': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(226,24): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(226,24): warning C4024:  'deposito': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(244,24): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(244,24): warning C4024:  'deposito': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(260,24): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(260,24): warning C4024:  'deposito': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(286,21): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(286,21): warning C4024:  'saque': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(302,21): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(302,21): warning C4024:  'saque': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(320,21): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(320,21): warning C4024:  'saque': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(336,21): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(336,21): warning C4024:  'saque': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(362,22): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(362,22): warning C4024:  'exibir': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(378,22): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(378,22): warning C4024:  'exibir': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(396,22): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(396,22): warning C4024:  'exibir': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(412,22): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(412,22): warning C4024:  'exibir': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(438,22): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(438,22): warning C4024:  'logica': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(454,22): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(454,22): warning C4024:  'logica': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(472,22): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(472,22): warning C4024:  'logica': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(488,22): warning C4047:  'função': 'char' difere em níveis de indireção de 'char [10]'
+C:\Users\orlan\source\repos\File\main.c(488,22): warning C4024:  'logica': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(53,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(69,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(87,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(103,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(129,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(145,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(163,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(179,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(205,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(221,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(239,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(255,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(281,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(297,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(315,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(331,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(357,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(373,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(391,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(407,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(433,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(449,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(467,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(483,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(34,6): warning C4101:  'resp': variável local não referenciada
+C:\Users\orlan\source\repos\File\main.c(35,11): warning C4101:  'usuarios': variável local não referenciada
+C:\Users\orlan\source\repos\File\main.c(546,1): error C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  consulte a declaração de 'strcpy'
+C:\Users\orlan\source\repos\File\main.c(554,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  consulte a declaração de 'scanf'
+C:\Users\orlan\source\repos\File\main.c(566,1): error C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  consulte a declaração de 'strcpy'
+C:\Users\orlan\source\repos\File\main.c(574,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  consulte a declaração de 'scanf'
+C:\Users\orlan\source\repos\File\main.c(597,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  consulte a declaração de 'fopen'
+C:\Users\orlan\source\repos\File\main.c(607,6): error C2371:  'consulta': redefinição; tipos básicos diferentes
+C:\Users\orlan\source\repos\File\main.c(640,30): warning C4047:  'função': 'char *' difere em níveis de indireção de 'char'
+C:\Users\orlan\source\repos\File\main.c(640,30): warning C4024:  'busca': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(651,36): warning C4047:  'função': 'const char *' difere em níveis de indireção de 'char'
+C:\Users\orlan\source\repos\File\main.c(651,36): warning C4024:  'strcmp': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(653,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  consulte a declaração de 'scanf'
+C:\Users\orlan\source\repos\File\main.c(677,30): warning C4047:  'função': 'char *' difere em níveis de indireção de 'char'
+C:\Users\orlan\source\repos\File\main.c(677,30): warning C4024:  'busca': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(688,36): warning C4047:  'função': 'const char *' difere em níveis de indireção de 'char'
+C:\Users\orlan\source\repos\File\main.c(688,36): warning C4024:  'strcmp': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(690,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  consulte a declaração de 'scanf'
+C:\Users\orlan\source\repos\File\main.c(716,35): warning C4047:  'função': 'const char *' difere em níveis de indireção de 'char'
+C:\Users\orlan\source\repos\File\main.c(716,35): warning C4024:  'strcmp': tipos diferentes para parâmetro formal e real 2
+C:\Users\orlan\source\repos\File\main.c(723,10): warning C4477:  'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'int'
